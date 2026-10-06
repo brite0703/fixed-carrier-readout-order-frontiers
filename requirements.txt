@@ -1,0 +1,11 @@
+# Observed environment; Python 3.13.5. Not a tested installation lockfile.
+# Historical Torch build: 2.9.0+cu128; select compatible platform builds separately.
+numpy==2.3.4
+networkx==3.5
+scikit-learn==1.7.2
+scipy==1.16.3
+torch==2.9.0
+torch-geometric==2.7.0
+torch-scatter==2.1.2
+# Version not recorded in the inspected environment:
+matplotlib
